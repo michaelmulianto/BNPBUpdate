@@ -1,4 +1,4 @@
 {
-  title: "Testing",
-  body: "Extra information goes here, hello hello this is a test to make it longer"
+  "title": "Testing",
+  "body": "Extra information goes here, hello hello this is a test to make it longer"
 }
